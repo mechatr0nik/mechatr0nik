@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1583214357 source:c:\users\machine\desktop\pj1\main.c
+	"main.h"
+
+1583213893 c:\users\machine\desktop\pj1\main.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"stringFunction.h"
+	"fileFunction.h"
+	"menu.h"
+
+1583140158 c:\users\machine\desktop\pj1\stringfunction.h
+	"stringFunction.c"
+
+1582529418 c:\users\machine\desktop\pj1\stringfunction.c
+
+1583140133 c:\users\machine\desktop\pj1\filefunction.h
+	"fileFunction.c"
+
+1582879321 c:\users\machine\desktop\pj1\filefunction.c
+
+1582866400 source:c:\users\machine\desktop\pj1\menu.cpp
+
+1583140546 c:\users\machine\desktop\pj1\menu.h
+	"menu.c"
+
+1582867281 c:\users\machine\desktop\pj1\menu.cpp
+
+1583156870 c:\users\machine\desktop\pj1\menu.c
+
